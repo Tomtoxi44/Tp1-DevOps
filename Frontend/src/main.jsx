@@ -10,9 +10,11 @@ function CarouselApp() {
   const [currentIndex, setCurrentIndex] = useState(0);
 
   const images = [
-    'chemin/vers/image1.jpg',
-    'chemin/vers/image2.jpg',
-    'chemin/vers/image3.jpg',
+    '../images/ab3f33372c49557799436365384f1ab1.jpg',
+    '../images/cat-with.gif',
+    '../images/huh_cat.jpg',
+    '../images/Smiling-Cat.jpg',
+    '../images/téléchargé.jpg',
     // Ajoutez autant d'images que nécessaire
   ];
 
