@@ -6,7 +6,7 @@ import Footer from '../02.Sections/Footer';
 
 const HomePage = () => {
     return (
-        <div>
+        <div className='h-screen'> 
             <main>
                 <Navbar />
                 <Hero />
